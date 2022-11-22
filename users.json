@@ -1,0 +1,242 @@
+[{
+  "_id": {
+    "$oid": "636bc894b7bfa8db77ce00dc"
+  },
+  "id": 1,
+  "name": "Memed",
+  "surname": "Khasta",
+  "age": 32,
+  "email": "memek@gmail.com",
+  "password": "qwertyew",
+  "interests": [
+    "Drums",
+    "Languages",
+    "Swimming"
+  ],
+  "friends": [
+    7,
+    8
+  ],
+  "subscriptions": [
+    3,
+    7,
+    10,
+    8,
+    12
+  ]
+},{
+  "_id": {
+    "$oid": "636bc9b87f1ee2092d509db0"
+  },
+  "id": 2,
+  "name": "Sisheir",
+  "surname": "Ridir",
+  "age": 42,
+  "email": "sisr@gmail.com",
+  "password": "qwqasas",
+  "interests": [
+    "Bike"
+  ],
+  "friends": [],
+  "subscriptions": []
+},{
+  "_id": {
+    "$oid": "636bcacb7f1ee2092d509db1"
+  },
+  "id": 3,
+  "name": "Holdag",
+  "surname": "Eagledreamer",
+  "age": 52,
+  "email": "holeag@gmail.com",
+  "password": "qwertyqw",
+  "interests": [
+    "Fantasy"
+  ],
+  "friends": [],
+  "subscriptions": []
+},{
+  "_id": {
+    "$oid": "636bd43f9b3afc78349548f4"
+  },
+  "id": 4,
+  "name": "Malvolm",
+  "surname": "Paleoak",
+  "age": 32,
+  "email": "malpal@gmail.com",
+  "password": "zxcvbnwq",
+  "interests": [
+    "Touching grass",
+    "Board Games"
+  ],
+  "friends": [],
+  "subscriptions": [
+    1,
+    2,
+    3
+  ]
+},{
+  "_id": {
+    "$oid": "636bd733e2315750a8ec7757"
+  },
+  "id": 6,
+  "name": "Hodom",
+  "surname": "Sursk",
+  "age": 21,
+  "email": "hodsu@gmail.com",
+  "password": "qwerty12321",
+  "interests": [
+    "Procrasti..."
+  ],
+  "friends": [
+    5
+  ],
+  "subscriptions": [
+    11,
+    4,
+    5,
+    2
+  ]
+},{
+  "_id": {
+    "$oid": "636bde789610b6a44092d142"
+  },
+  "id": 7,
+  "name": "Vil",
+  "surname": "Sodratsk",
+  "age": 41,
+  "email": "vilso@gmail.com",
+  "password": "asdf21",
+  "interests": [
+    "Youtube",
+    "Writing"
+  ],
+  "friends": [
+    1,
+    8
+  ],
+  "subscriptions": [
+    1,
+    2,
+    3,
+    4,
+    10,
+    8,
+    5
+  ]
+},{
+  "_id": {
+    "$oid": "636be563bd36bafadaa0e896"
+  },
+  "id": 8,
+  "name": "Rumurth",
+  "surname": "Gloomtaker",
+  "age": 21,
+  "email": "rumgloom@ukr.net",
+  "password": "its3231ahardpassword",
+  "interests": [
+    "Anime",
+    "Literature",
+    "Youtube",
+    "Politics"
+  ],
+  "friends": [
+    1,
+    7
+  ],
+  "subscriptions": [
+    1,
+    7
+  ]
+},{
+  "_id": {
+    "$oid": "636be65cbd36bafadaa0e898"
+  },
+  "id": 9,
+  "name": "Trer",
+  "surname": "Morningscribe",
+  "age": 32,
+  "email": "tremor@yahoo.com",
+  "password": "dads1f2ff",
+  "interests": [
+    "Punk-culture",
+    "Math",
+    "Guitar"
+  ],
+  "friends": [],
+  "subscriptions": [
+    1,
+    8
+  ]
+},{
+  "_id": {
+    "$oid": "636be724bd36bafadaa0e89a"
+  },
+  "id": 10,
+  "name": "Nio-Nuen",
+  "surname": "Jivruhd",
+  "age": 21,
+  "email": "nion@yahoo.com",
+  "password": "qwert21`yzxcvb",
+  "interests": [
+    "living on"
+  ],
+  "friends": [],
+  "subscriptions": []
+},{
+  "_id": {
+    "$oid": "636be8f2bd36bafadaa0e89b"
+  },
+  "id": 11,
+  "name": "Jarlaunrod",
+  "surname": "Zukaldyevru",
+  "age": 41,
+  "email": "jarzuk@gmail.com",
+  "password": "212e3asdfgh",
+  "interests": [
+    "Singing",
+    "Guitar"
+  ],
+  "friends": [],
+  "subscriptions": []
+},{
+  "_id": {
+    "$oid": "636be994bd36bafadaa0e89c"
+  },
+  "id": 12,
+  "name": "Shanzer",
+  "surname": "Cholbevi",
+  "age": 51,
+  "email": "shacho@gmail.com",
+  "password": "d12e1qwaszx",
+  "interests": [
+    "Guitar",
+    "Music"
+  ],
+  "friends": [],
+  "subscriptions": []
+},{
+  "_id": {
+    "$oid": "636beabc630f549d2e99a5b3"
+  },
+  "id": 5,
+  "name": "Hion",
+  "surname": "Iaon",
+  "age": 62,
+  "email": "hionia@gmail.com",
+  "password": "121ed1",
+  "interests": [
+    "Youtube",
+    "Vtubers",
+    "Simping"
+  ],
+  "friends": [
+    6
+  ],
+  "subscriptions": [
+    1,
+    3,
+    6,
+    2,
+    0
+  ]
+}]
